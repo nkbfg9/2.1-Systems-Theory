@@ -1,1 +1,3 @@
 # 2.1-Systems-Theory
+
+  My Systems theory sheet is based on Edward Snowden's release of NSA and other intelligence agencies' information. The information leaked had a significant effect on many Systems involved with United States' and other "five eyes" intelligence agencies and the telcom companies that allowed them to access personal records. The data released forced the many breaches of personal privacy at their hands into the spotlight. Although these companies and operations were put in awkward positions, the safety of the American public was never put at risk by anyone other than these NSA's unconsitutional intrusions into personal data. Furthermore, Snowden brought the court of public opinion into the matter, 
